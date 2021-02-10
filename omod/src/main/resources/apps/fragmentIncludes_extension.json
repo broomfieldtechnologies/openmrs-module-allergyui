@@ -1,7 +1,7 @@
 [
     {
-        "id": "${project.parent.groupId}.${project.parent.artifactId}.patientDashboard.secondColumnFragments",
-        "extensionPointId": "patientDashboard.secondColumnFragments",
+        "id": "${project.parent.groupId}.${project.parent.artifactId}.patientDashboard.firstColumnFragments",
+        "extensionPointId": "patientDashboard.firstColumnFragments",
         "extensionParams": {
             "provider": "${project.parent.artifactId}",
             "fragment": "allergies"
